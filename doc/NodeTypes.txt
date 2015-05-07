@@ -1,0 +1,15 @@
+﻿
+ServerNode
+  DatabaseNode
+   TablesNode
+     SystemTablesNode
+       SystemTableNode
+         ColumnsNode
+           ColumnNode
+     TableNode
+       ColumnsNode
+         ColumnNode
+   ViewsNode
+     SystemViewsNode
+       SystemViewNode   
+     ViewNode

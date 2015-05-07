@@ -1,0 +1,1 @@
+﻿ALTER TABLE {0} ADD COLUMN [column_name];

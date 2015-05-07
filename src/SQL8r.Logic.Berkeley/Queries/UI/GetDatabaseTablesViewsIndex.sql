@@ -1,0 +1,1 @@
+﻿SELECT type, name, tbl_name, rootpage, sql FROM main.SQLITE_MASTER;

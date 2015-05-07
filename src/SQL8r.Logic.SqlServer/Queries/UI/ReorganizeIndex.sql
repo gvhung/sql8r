@@ -1,0 +1,3 @@
+﻿USE {0};
+
+ALTER INDEX {1} ON {2}.{3} REORGANIZE

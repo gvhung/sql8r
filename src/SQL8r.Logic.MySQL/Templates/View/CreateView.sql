@@ -1,0 +1,1 @@
+﻿CREATE OR REPLACE VIEW <db_name>.<view_name> AS SELECT * FROM <table_name>;

@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="SQL8r.WinForms.NodeTypes.SystemTableNode">
+    <Position X="4" Y="4.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>NodeTypes\SystemTableNode.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SQL8r.WinForms.NodeTypes.FunctionNode">
+    <Position X="6" Y="1.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAQAAAACAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>NodeTypes\FunctionNode.cs</FileName>
+      <NewMemberFileName>NodeTypes\TableNode.cs</NewMemberFileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SQL8r.WinForms.NodeTypes.SystemViewNode">
+    <Position X="2" Y="4.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NodeTypes\SystemViewNode.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SQL8r.WinForms.NodeTypes.ViewNode">
+    <Position X="2" Y="1.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAQAAAAAAAAAAAAAAQAAAAAAAAAAQAA=</HashCode>
+      <FileName>NodeTypes\ViewNode.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SQL8r.WinForms.NodeTypes.SystemFunctionNode">
+    <Position X="6" Y="4.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NodeTypes\SystemFunctionNode.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SQL8r.WinForms.NodeTypes.TableNode">
+    <Position X="4" Y="1.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAQAAAAAAAAAAAAAAAAAAAAAAQAQQAA=</HashCode>
+      <FileName>NodeTypes\TableNode.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SQL8r.WinForms.NodeTypes.ProcedureNode">
+    <Position X="8" Y="1.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAQAAAAAAABAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>NodeTypes\ProcedureNode.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SQL8r.WinForms.NodeTypes.SystemProcedureNode">
+    <Position X="8" Y="4.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NodeTypes\SystemProcedureNode.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SQL8r.WinForms.NodeTypes.AssemblyNode">
+    <Position X="10" Y="1.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAQAAAAAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NodeTypes\AssemblyNode.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SQL8r.WinForms.NodeTypes.TypeNode">
+    <Position X="12" Y="1.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAQAAAAAAAACAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>NodeTypes\TypeNode.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

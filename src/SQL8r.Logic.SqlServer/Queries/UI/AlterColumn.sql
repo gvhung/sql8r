@@ -1,0 +1,5 @@
+﻿USE {0};
+
+ALTER TABLE {1} 
+	ALTER COLUMN {2}
+	

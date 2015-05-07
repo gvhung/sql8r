@@ -1,0 +1,61 @@
+﻿Essential Applications
+======================
+
+Windows XP/Vista
+
+Visual Studio 2008
+
+ReSharper 4.0 (€247)
+http://www.jetbrains.com/resharper/index.html
+
+Tools
+=====
+
+TestDriven.NET 2.13 ($145)	
+http://testdriven.net/
+
+VisualSVN 1.3.2 ($49)
+http://www.visualsvn.com/
+
+UI Framework
+============
+Infragistice NetAdvantage for Winforms 2008 Vol. 1-2 ($795)
+http://www.infragistics.com/dotnet/netadvantage/winforms.aspx
+
+Free Tools
+==========
+
+MbUnit 2.4 Runner for ReSharper 4.0
+http://der-albert.com/archive/2008/06/13/mbunit-2.4-plugin-for-resharper-4.0-final.aspx
+
+PowerCommands for VisualStudio 2008 1.1
+http://code.msdn.microsoft.com/PowerCommands
+
+Rhino-Mocks 3.4+
+http://www.ayende.com/projects/rhino-mocks/downloads.aspx
+
+MbUnit 2-3
+http://mbunit.com/Downloads.aspx
+
+SyntaxBox from CodeProject.com
+http://www.codeproject.com/KB/edit/SyntaxHighlighting.aspx
+
+SyntaxBox Mod
+
+Compona SyntaxBox
+http://www.compona.com/WikiEngine/WikiPageViewer.ascx?ID=5
+
+Icons from PI Diagona Pack from pinvoke.com
+http://pinvoke.com/
+
+Services
+========
+
+BeanStalk ($15/m)
+http://nida.beanstalkapp.com/
+
+Basecamp ($49/m)
+http://nidasystems.updatelog.com/
+
+CampFire ($24/m)
+http://nidasystems.campfirenow.com/

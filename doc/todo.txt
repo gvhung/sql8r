@@ -1,0 +1,9 @@
+Todo
+----
+
+Windows 7 stuff
+http://code.msdn.microsoft.com/WindowsAPICodePack
+
+Connect to SQL AZure
+
+StyleCop for R#

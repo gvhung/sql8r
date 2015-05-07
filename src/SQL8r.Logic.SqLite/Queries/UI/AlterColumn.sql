@@ -1,0 +1,2 @@
+﻿ALTER TABLE {0} 
+	ALTER COLUMN {1}

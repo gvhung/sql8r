@@ -1,0 +1,264 @@
+﻿This is a survey of existing SQL Server tools.
+Prices refer to single user licences.
+
+Primary Competition, SSMS replacements
+===================================================================================================
+
+Aqua Data Studio ($399)
+http://www.aquafold.com
+(Vendors: IBM DB/2, MSSQL, Oracle, Sybase, MySQL, Informix, PostgreSQL, Apacge Derby)
+
+ApexSQL Edit ($349)
+http://www.apexsql.com/sql_tools_edit.asp
+(Other Tools: Audit, Clean, Code, Diff, Doc, Enforce, Log, Report, Script)
+
+Altova DatabaseSpy 2008 (€99)
+http://www.altova.com/products/databasespy/database_tool.html
+(Vendors: IBM DB/2, MSSQL, Oracle, Sybase, MySQL, Access)
+
+Toad™ for SQL Server (free)
+http://www.toadsoft.com/toadsqlserver/toad_sqlserver.htm
+(Vendors: IBM DB/2, MSSQL, Oracle, MySQL)
+
+Quest Toad for SQL Server Professional ($595)
+http://www.quest.com/sql-server/
+(Other Tools: Discovery Wizard, Change Director, LiteSpeed, SpotLight, Capacity Manager)
+(Vendors: IBM DB/2, MSSQL, Oracle, Sybase, MySQL)
+
+Embarcadero Rapid SQL 7.5 ($999)
+http://www.embarcadero.com/products/rapidsql/
+(Tools: PowerSQL, SQL Debugger, DbArtisan, Change Manager, Performance Center, ER/Studio, DT/Studio, Schema Examiner)
+(Vendors: IBM DB/2, MSSQL, Oracle, Sybase, MySQL)
+
+EMS SQL Manager for SQL Server ($275)
+http://sqlmanager.net/products/mssql/manager/
+(Other Tools: Data Export, Data Import, Data Pump, Data Generator, Db Comparer, Db Extract, SQL Query, Data Comparer)
+(Vendors: IBM DB/2, MSSQL, Oracle, PostgreSQL, Interbase/Firebird, MySQL, DBISAM)
+
+DTM SQL editor ($249)
+http://www.sqledit.com/editor/index.html
+(Other Tools: DTM Schema Reporter ($199), DTM Migration Kit ($159), DTM Data Generator ($349), DTM Data Editor ($139), 
+	DTM DB Stress ($179), DTM Data Modeler ($179), DTM Data Scrubber ($149), DTM Data Comparer ($159), 
+	DTM Schema Comparer ($149), DTM Query Reporter ($99), DTM Schema Inspector ($99), DTM DB Event ($99))
+(Vendors: MSSQL, Oracle, DB2, Sybase, Interbase/Firebird.)
+
+
+Secondary Competition, Limited SSMS replacements (smaller, cheaper)
+===================================================================================================
+
+Database .NET 2.2 (free)
+http://s630417.myweb.hinet.net/Database.htm
+
+SQLFactory Profression Edition 4.5 ($249)
+http://www.sqlservertool.com/
+
+SQLExecMS 2.6 ($119)
+http://www.laplas-soft.com/
+
+WinSQL (Lite: Free, Dev: $99, Pro: $249 )
+http://www.synametrics.com/SynametricsWebApp/WinSQL.jsp
+
+GiPo@DB_Utilities 5 (free)
+http://www.gibinsoft.net/
+(Includes: GiPo@DB_Explorer, GiPo@DB_Viewer, GiPo@DB_Console)
+
+
+dbQwikEdit 3 ($40)
+http://www.dbqwikedit.com/index.html
+(Vendors: DB2, MSSQL, dBase, Access)
+
+Teratrax Database Manager 4.6 ($145)
+http://www.teratrax.com
+(Other Tools:  Performance Monitor, Database Compare, Job Scheduler)
+
+SQLDbx ($250)
+http://www.sqldbx.com
+
+RazorSQL ($50)
+http://www.razorsql.
+(Vendors:  DB2, Derby/JavaDB, Firebird, FrontBase, HSQLDB, Informix, MySQL, OpenBase, Oracle, PostgreSQL, SQLite, MSSQL, Sybase)
+(Platforms: Windows, MacOS X, Linus/Unix)
+
+dbOrchestra ($150)
+http://www.dborchestra.com/
+(Vendors: MSSQL, Oracle, MySQL)
+
+vive SQLPro ($30)
+http://www.vive.net/products/sqlpro
+(Other Tools: dataPro ($100))
+Vendors:( Oracle, PostgreSQL, MSSQL, MySQL, SQLite, Access)
+
+
+Really Limited SSMS replacements (smaller, cheaper)
+===================================================================================================
+
+QueryExpress 3.9 (free)
+http://www.albahari.com/queryexpress.html
+
+QueryEx Plus 2.0.2 (free)
+http://sourceforge.net/projects/queryexplus/
+
+SQL XP
+http://netlegger.net/
+(Tools: LargeEdit ($25), SQLXP ($30), SQLQuery )
+
+QueryCommander (free)
+http://www.codeproject.com/KB/database/QueryCommander.aspx
+
+
+
+Other SQL Server Tools to compete/interoperate with at will
+===================================================================================================
+
+Idera
+http://www.idera.com/
+(Tools: SQL diagnostic manager, SQL mobile manager, SQL defrag manager, SQLscaler, SQL job manager, 
+	SQL compliance manager, SQLsecure, SQLsafe, SQLconfig, SQL change manager)
+
+Red-Gate
+http://www.red-gate.com/
+(Tools: SQL Compare ($395), SQL Data Compare ($395), SQL Packager ($295), SQL Prompt ($195), SQL Data Generator ($295)
+	SQL Refactor ($295), SQL Backup ($795), SQL Multi Script ($195), SQL Toolkit ($595), SQL Dependency Tracker ($295)
+	SQL Doc ($295), SQL Log Rescue (Free))
+
+SQL Assist 3.5 ($149)
+http://www.softtreetech.com/isql.htm
+
+Lumigent Log Explorer ($2,574)
+http://www.ssw.com.au/SSW/LogExplorer/
+
+SQL Sentry
+http://www.sqlsentry.net/
+(Performance Advisor ($1,495), Event Manager ($395))
+
+SQL Solutions
+https://www.sqlsolutions.com/products/index.html
+http://www.lakesidesql.com/
+(Tools: SQL Trace Analyzer ($245.00), SQL Deadlock Detector ($295), SQL Ultimate Debugger ($295)
+	SQL Ultimate Performance Monitor ($495.00, SQL Herartbeat (free), SQL SQL Xray ($695.00))
+
+AdeptSQL Diff ($320)
+http://www.adeptsql.com/
+
+Superior SQL Builder 2.1 ($299)
+http://www.superiorsql.com/
+
+dbMaestro
+http://www.dbmaestro.com/mainpage.aspx
+(Tools: ChangeManager ($895), TeamWork ($675))
+
+DB Ghost (Pro: $350, Packager Plus: $1995)
+http://www.innovartis.co.uk/
+
+SQL Inspect ($80)
+http://www.yohz.com/
+(Other Tools: SQL Image Viewer ($20), Compact Query (free) )
+
+OmniView 2.3 ($59)
+http://www.krell-software.com/
+(Other Tools: OnmiAudit ($479))
+
+BMC Performance Manager for Databases
+http://www.bmc.com/products/proddocview/0,2832,19052_19429_34441967_126814,00.html
+
+---------------------------------------
+
+SSMS Tools Pack 1.0 (free)
+http://www.ssmstoolspack.com/
+
+SQL Internals Viewer 1.0.1 (free)
+http://www.sqlinternalsviewer.com/
+
+SQL 2005 Service Manager 2 (free)
+http://www.sqldbatips.com/showarticle.asp?ID=46
+
+SQL Ping 3.0 (free)
+http://www.sqlsecurity.com/Tools/FreeTools/tabid/65/Default.aspx
+
+
+
+Microsoft
+===================================================================================================
+
+Microsoft SQL Server 2005/2008
+http://msdn.microsoft.com/en-us/sqlserver/default.aspx
+http://technet.microsoft.com/en-us/sqlserver/default.aspx
+https://connect.microsoft.com/SQLServer/
+
+Microsoft SQL Server 2008 Feature Pack
+
+Microsoft Visual Studio Team System 2008 Database Edition
+http://msdn.microsoft.com/en-us/vsts2008/products/bb933747.aspx
+
+SQL Server 2005 Best Practices Analyzer
+http://www.microsoft.com/downloads/details.aspx?FamilyId=DA0531E4-E94C-4991-82FA-F0E3FBD05E63&displaylang=en
+
+
+
+Magazines, Communities, etc
+===================================================================================================
+
+SQL Server Magazine
+http://www.sqlmag.com/
+
+Windows IT pro
+http://windowsitpro.com/
+
+Software Magazine - The IT Software Journal
+http://www.softwaremag.com/
+
+MSDN Magazine
+http://msdn.microsoft.com/en-us/magazine/
+
+TechNet Magazine
+http://technet.microsoft.com/en-us/magazine/
+
+SD Times
+http://www.sdtimes.com/
+
+CoDe Magazine
+http://www.code-magazine.com/
+
+PC Pro
+http://www.pcpro.co.uk/
+
+PC Plus
+http://www.pcplus.co.uk/
+
+Dr Dobb's Journal
+http://www.ddj.com/
+
+
+Hubs/blogs
+------------------------------------
+http://sqladvice.com/
+http://www.sqlsecurity.com/
+http://www.scalabilityexperts.com/
+http://sqlblog.com/
+http://sqlskills.com/
+http://sqlblogcasts.com/
+http://www.sqldbatips.com/
+http://www.solidq.com
+
+
+Can publish
+------------------------------------
+http://www.sqlteam.com/
+http://www.sqlservercentral.com/
+http://www.codeproject.com/
+http://www.experts-exchange.com
+
+
+
+
+
+
+
+-----------------------------------
+
+
+SQLServerToolKit
+http://www.fullsun.net/
+
+
+

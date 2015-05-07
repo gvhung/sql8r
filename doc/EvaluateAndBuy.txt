@@ -1,0 +1,59 @@
+﻿http://www.aspack.com/asprotectske.aspx
+ASProtect SKE  €149
+No .NET support
+
+http://www.siliconrealms.com/
+Armadillo/SoftwarePassport  $299.00
+
+http://www.obsidium.de/show/download/en
+Obsidium  €79
+No .NET support
+
+http://www.oreans.com/winlicense.php
+WinLicense  €399
+XBundler €79
+
+http://www.powerprogrammer.co.uk/
+Software Update Wizard $249.95
+
+
+
+http://www.codeproject.com/KB/tree/ExplorerTreeView.aspx
+http://www.codeproject.com/KB/miscctrl/FileBrowser.aspx
+
+Resources
+=============================================================
+http://www.endtoendtraining.com/public/classes/coursedetails.aspx?courseid=10
+http://msdn.microsoft.com/en-us/library/cc678150.aspx
+
+
+
+Profilers
+=============================================================
+Compuware DevPartner Studio ($2300),
+Red Gate ANTS Profiler 3.2 ($495) 
+Scitech Software .NET Memory Profiler 3.1 ($235)
+QaTime 5 ($599)
+JetBrains dotTrace 3.1 (€353)
+Microsoft CLR Profiler 2.0 (free)
+
+
+Use features from 
+==========================================================
+SnippetCompiler
+http://www.sliver.com/dotnet/SnippetCompiler/
+
+LinqPad
+http://www.linqpad.net/
+
+SyntaxEditor ($350)
+http://www.actiprosoftware.com/Products/DotNet/WindowsForms/SyntaxEditor/default.aspx
+
+Xtreme Syntax Edit™ 2008 ($99)
+http://www.codejock.com/products/syntaxedit/
+
+syncfusion Essential Edit ($495)
+http://www.syncfusion.com/Products/edit/windows/default.aspx
+
+Quantum Whale Editor .NET ($299)
+http://www.qwhale.net/products/editor/

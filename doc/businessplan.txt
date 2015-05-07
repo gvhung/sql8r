@@ -1,0 +1,152 @@
+﻿AP - Affärsplan -> Vad?
+MP - Marknadsplan -> Varför?
+KP - Kommunikationsplan -> Hur?
+
+
+AP
+--
+Vad vill du göra med företaget? kvantitativa mål
+Syftet är att utveckla produkten SQL8r och sälja den, och gå med vinst.
+Efter produkten är "klar" borde den kunna sälja utan att någon jobbar heltid.
+Etablera ett företag i Kanada och sälja till USA
+Lokaliser produkten och webben till indiska och kinesiska.
+Eventuellt med annan prissättning i låglöneländer.
+Många kunder känns roligare än högt pris.
+Etablera oss som SQLServer specialister och ha mycket hjälp av produkten i dessa uppdrag
+Och på vägen lära sig mer om produktutveckling (utöver applikationsutvecklingen)
+och lära sig allt om SQL Server administration, interna funktioner.
+
+Vad gör produkten? löser problem, snabbare, bättre, snyggare?
+Produkten är en ersättare till Microsoft SQL Server Management Studio (SSMS),
+och ska även innehålla en rad förbättringar, och förenklingar.
+Lättare att använda (mha bla Ribbon kontrollen)
+
+De olika delarna i SSMS
+-----------------------
+Registered Servers - Ersätt med projekthantering som har servrar kopplade till sig
+Object Explorer - duplicera och integrera med Ribbon för att lättare se vilka funktioner som finns för de olika typerna av objeckt
+Solution Explorer - Ersätt med en bättre, som stöder tex kataloger. SSMS svagaste punkt.
+Template Explorer - Ungefär samma.
+
+Text Editor - ungefär samma, med färgkodning, syntaxvalidering.
+Query Designer
+Table Designer -  gör en bättre, som visar SQL satserna som körs och låter användaren editera
+Query Result Grid - blir bättre med Infragistics, fullt editerbar, filtrerbar, grupperbar.
+Debugger - ersätt med radvis exekvering
+
+Profiler (Extern) - länka till befintlig
+Tuning Advisor (Extern) - länka till befintlig
+Best Practice Analyser (Extern, separat nedladdning) - länka till befintlig, lägg till mycket
+	som en del i den stora prestandaanalysdelen.
+
+
+Finns det en framtid för produkten? varför? kvantitativa beskrivningar!
+Jag anser att produkten behövs eftersom standarden på både SSMS är ganska låg. 
+Vana användare anser att den kunde varit bättre. 
+Antalet bra konkurrenter är dessutom lågt.
+Desutom kan mycket funktionalitet byggas kring SQL Servers Management Views (DMV),
+det finns inte i något annat verktyg.
+Mycket knowhow angående prestandaoptimering finns bara hos dyra specialistkonsulter och har aldrig byggts in i verktyg
+
+Hur många behövs för att ta fram produkten och ev. kringsystem, web, grafik, etc
+Utvecklingen kan ske med:
+en person på GUI och SQL Server funktionalitet
+en person på MySQL funktionalitet
+en person på Oracle funktionalitet
+osv
+dokumentation (manualen till ApexSQL är på över 900s)
+en grafisk designer för att göra hemsida och ev. grafik till applikationen
+en interaktionsdeigner att se över applikationen
+en översättare till kinesiska
+en översättare till indiska
+osv
+
+Organisation, arbetsinsats, investeringar, budget?
+Inköp av Infragistics NetAdvantage UI components behövs. ($795)
+Inköp av ReSharper för Visual Studio 2008 behövs. (€247)
+Versionshanteringssystem BeanStalk ($15/m)
+http://nida.beanstalkapp.com/
+
+Ärendehanteringssystem Basecamp ($49/m)
+http://nidasystems.updatelog.com/
+
+MP
+--
+Hur ser erbjudandet ut
+Man kan  sälja applikationen med med stöd för SQL Server och sedan kan man köpa till stödet för andra tillverkare.
+Jag tror inte på att dela upp funktioaliteten i flera verktyg som några konkurrenter gör,
+det blir mycket bättre att integrera så mycket som möjligt. Syftet emd att dela upp är ändå bara att käna pengar
+
+Prissättning
+ett par hundra dollar.
+
+Service, support, updateringar
+uppdateringar efter hand
+buggfixar efter behov
+supportforum på hemsidan
+mail support
+
+Vem behöver produkten? målgrupp = segment
+Utvecklare som behöver ett smidigare verktyg för sql, och vill ha C#, Linq kodgenerering
+Utvecklare/testare som behöver en skriptbar applikation för att generera databas eller data
+dba i hetrogen miljö som behöver dra-släppa tabeller (eller andra objeckt) mellan två servrar från olika tillverkare.
+dba som vill prestandaanalysera databaser
+dba som vill ha bättre koll på sina sql filer
+
+Hur många är de i segmenten? = marknaden
+
+Varför behövs produkten?
+
+Hur många liknande produkter finns det? styrkor o svagheter hos dessa?
+Lista på huvudkonkurrenter finns nedan, gemensamt för de 5 stora  är att de har ett brett produktutbud och stöder
+flera olika databaser.
+
+Hur ska produkten positioneras (i termer av styrkor och svagheter) gentemot konkurrenter?
+Hur stor är marknaden
+Antalet dba:er måste vara ansenligt, antalet utvecklare som jobbar med databaser också
+
+Vilken marknadsandel vill du ha, på 1års -> 3års sikt
+produkten borde kunna bli top 10 med lite marknadsföring och sedan jobba sig uppåt mot de stora.
+
+Definera marknaden, sätt produkten på kartan.
+
+4P = Pris, Produkt, Plats (geografi), Placering (kommunikation)
+
+KP
+--
+Hur når du ut till målgruppen med ditt budskap (produktens styrkor och dess plats på kartan)?
+kommunikationskanaler?
+Annonsera i SQL Server Magazine (http://www.sqlmag.com/)
+MSDN Magazine kan också vara lämpligt eftersom många läser den, och applikationen även riktar sig till utvecklare.
+och på community siter (http://www.sqlservercentral.com/)
+Konferanser som PASS och TechNet
+Blogga om olika funktioner eller viktiga scenario där applikationen kan vara till hjälp,
+som tex sysinternals alltid lyckas lösa sina problem med ProcessExplorer och ProcessMonitor.
+
+
+
+
+Huvudkonkurrenter
+------------------
+
+ApexSQL Edit ($349), http://www.apexsql.com/sql_tools_edit.asp
+(Other Tools: Audit, Clean, Code, Diff, Doc, Enforce, Log, Report, Script)
+
+Quest Toad for SQL Server Professional ($595), http://www.quest.com/sql-server/
+(Tools: Toad, Discovery Wizard, Change Director, LiteSpeed, SpotLight, Capacity Manager)
+(Vendors: IBM DB/2, MSSQL, Oracle, Sybase, MySQL)
+
+Embarcadero Rapid SQL 7.5 ($999), http://www.embarcadero.com/products/rapidsql/
+(Tools: Rapid SQL, PowerSQL, SQL Debugger, DbArtisan, Change Manager, Performance Center, ER/Studio, DT/Studio, Schema Examiner)
+(Vendors: IBM DB/2, MSSQL, Oracle, Sybase, MySQL)
+
+EMS SQL Manager for SQL Server ($275), http://sqlmanager.net/products/mssql/manager/
+(Tools: Data Export, Data Import, Data Pump, Data Generator, Db Comparer, Db Extract, SQL Query, Data Comparer)
+(Vendors: IBM DB/2, MSSQL, Oracle, PostgreSQL, Interbase/Firebird, MySQL, DBISAM)
+
+DTM SQL editor ($249)
+http://www.sqledit.com/editor/index.html
+(Other Tools: DTM Schema Reporter ($199), DTM Migration Kit ($159), DTM Data Generator ($349), DTM Data Editor ($139), 
+	DTM DB Stress ($179), DTM Data Modeler ($179), DTM Data Scrubber ($149), DTM Data Comparer ($159), 
+	DTM Schema Comparer ($149), DTM Query Reporter ($99), DTM Schema Inspector ($99), DTM DB Event ($99))
+(Vendors: MSSQL, Oracle, DB2, Sybase, Interbase/Firebird.)

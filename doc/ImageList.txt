@@ -1,0 +1,12 @@
+﻿ 0 Closed Folder
+ 1 Open Folder
+ 2 Delete
+ 3 Golden Key
+ 4 Table
+ 5 Silver Key
+ 6 Screen
+ 7 View
+ 8 Edit
+ 9 Search
+10 Bulb
+11 23

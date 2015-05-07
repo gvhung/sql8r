@@ -1,0 +1,1 @@
+﻿SHOW FULL TABLES FROM {0} WHERE Table_type = 'BASE TABLE' OR Table_type = 'SYSTEM VIEW';

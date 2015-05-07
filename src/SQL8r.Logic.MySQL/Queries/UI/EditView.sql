@@ -1,0 +1,2 @@
+﻿USE `{0}`;
+SHOW CREATE VIEW `{1}`;

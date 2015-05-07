@@ -1,0 +1,2 @@
+﻿USE `{0}`;
+SHOW CREATE TABLE `{1}`;
